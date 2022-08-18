@@ -1,0 +1,29 @@
+body {
+    font-family: "open sans", sans-serif;
+    background-image: url("https://user-images.githubusercontent.com/30896388/168069577-2f570d08-61d3-49d8-b7dd-c4b9192aaf68.jpg");
+    background-size: ;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%; 
+    background-color: gray;
+    color: white;
+    text-align: left;
+}
+nav {
+    position: fixed;
+    left: 0px;
+    width: 200%;
+   
+}
+span{
+    display: hidden;
+    background-color: none;
+    width: 140px;
+    height: 140px;
+    position: center;
+
+}
