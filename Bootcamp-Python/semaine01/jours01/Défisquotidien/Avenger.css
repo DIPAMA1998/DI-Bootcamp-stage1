@@ -8,5 +8,12 @@ section {
     position: center;
 }
 nav {
+justify-content: space-between;
+background-color: black;
+display: flex;
+position: fixed;
+top: 0;
+width: 100%;
+align-items: center;
 
 }
